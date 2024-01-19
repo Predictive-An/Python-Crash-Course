@@ -1,3 +1,5 @@
+# working with variables,f-strings and methods
+
 # 2.3 Personal Message
 person_name = 'Ann'
 message = f'Hello {person_name}, would you like to learn some Python today?'
